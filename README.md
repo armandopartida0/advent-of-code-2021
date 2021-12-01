@@ -4,7 +4,7 @@ My solutions to problems from AOC 2021
 
 ## Solutions
 
-These solutions will probably be written in C++/Kotlin as fun practice
+These solutions will probably be written in random languages as fun practice ☺
 
 ## Status
 | Day | Num of Stars :star: |
